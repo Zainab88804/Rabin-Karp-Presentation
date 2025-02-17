@@ -13,7 +13,7 @@ This repository contains my Rabin-Karp Algorithm** presentation for the Design a
 ✅ Conclusion  
 
 ## 📂 Download Presentation  
-📥 You can download the PowerPoint Presentation (PPTX) from [here](paste-your-file-link-here).  
+📥 You can download the PowerPoint Presentation (PPTX) from [here](https://github.com/Zainab88804/Rabin-Karp-Presentation/raw/refs/heads/main/Rabin-Karp%20DAA%20Presentation.pptx).  
 
 ## 📢 About  
 The Rabin-Karp Algorithm is a string-matching technique that efficiently finds patterns using hashing. This presentation explains how it works, its advantages, and its real-world applications.  
